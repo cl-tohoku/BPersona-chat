@@ -1,0 +1,3 @@
+# ignore hided files
+.git/
+.ipynb_checkpoints/
